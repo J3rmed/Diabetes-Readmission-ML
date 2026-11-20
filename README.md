@@ -47,7 +47,9 @@ Python ≥ 3.10, `numpy`, `pandas`, `scipy`, `scikit-learn` ≥ 1.2, `matplotlib
   elegido con el índice de Youden; no se usa SMOTE (justificación en el informe).
 - **Métrica principal:** AUC-ROC, con intervalos de confianza del 95 % (folds y *bootstrap* por paciente en prueba).
 
+## Responsabilidad sobre el uso IA
 
+## Video Explicativo:
 
 
 
