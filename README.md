@@ -48,8 +48,14 @@ Python ≥ 3.10, `numpy`, `pandas`, `scipy`, `scikit-learn` ≥ 1.2, `matplotlib
 - **Métrica principal:** AUC-ROC, con intervalos de confianza del 95 % (folds y *bootstrap* por paciente en prueba).
 
 ## Responsabilidad sobre el uso IA
+Se utilizó el asistente de IA generativa Claude (Anthropic) como apoyo en la elaboración de borradores de
+código, en la redacción y revisión del texto y en la explicación de conceptos. Las decisiones metodológicas,
+la ejecución de los experimentos, la verificación de los resultados y las referencias fueron revisadas por
+los autores, quienes asumen de forma conjunta la responsabilidad total por el contenido de este informe y
+del repositorio asociado.
 
 ## Video Explicativo:
+https://drive.google.com/drive/folders/1-bjFIrdbqdQPNpgzL5JZzqc6Pn_fsjsv?usp=drive_link
 
 
 
