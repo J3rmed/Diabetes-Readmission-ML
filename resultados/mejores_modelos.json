@@ -1,0 +1,58 @@
+{
+  "Regresión logística": {
+    "params": {
+      "C": 0.01
+    },
+    "umbral": 0.4764772057533264,
+    "auc_val": 0.6580255154000972,
+    "ic_val": 0.010010669812832136
+  },
+  "k-NN": {
+    "params": {
+      "n_neighbors": 300,
+      "weights": "distance"
+    },
+    "umbral": 0.11508061514635302,
+    "auc_val": 0.6481344287083648,
+    "ic_val": 0.008679607882825792
+  },
+  "Random Forest": {
+    "params": {
+      "n_estimators": 300,
+      "min_samples_leaf": 10
+    },
+    "umbral": 0.3853749940471348,
+    "auc_val": 0.6672351171087143,
+    "ic_val": 0.006992884060245344
+  },
+  "Gradient Boosting": {
+    "params": {
+      "learning_rate": 0.03,
+      "max_leaf_nodes": 31
+    },
+    "umbral": 0.4982396801799964,
+    "auc_val": 0.6666497817224387,
+    "ic_val": 0.008660871843966179
+  },
+  "MLP": {
+    "params": {
+      "hidden_layer_sizes": [
+        64,
+        32
+      ],
+      "alpha": 0.1
+    },
+    "umbral": 0.11204585433006287,
+    "auc_val": 0.6621994620340842,
+    "ic_val": 0.010332379073716575
+  },
+  "SVM (RBF)": {
+    "params": {
+      "C": 1,
+      "gamma": 0.003
+    },
+    "umbral": -0.18276268702820642,
+    "auc_val": 0.6516400826415853,
+    "ic_val": 0.008972743634361837
+  }
+}

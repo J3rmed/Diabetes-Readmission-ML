@@ -1,0 +1,4 @@
+esquema,hospitalizaciones,% positivos,AUC validación,IC 95 %,% hosp. de validación con el paciente en entrenamiento
+(a) primera hospitalización + StratifiedKFold,56006,8.999035817590972,0.6398374888365964,0.006749958471573185,0.0
+(b) todas + StratifiedKFold (con fuga),79472,11.38891685121804,0.6643745680887962,0.007392854245622036,41.595782977608856
+(c) todas + StratifiedGroupKFold (por paciente),79472,11.38891685121804,0.6599234189587496,0.005195075270699072,0.0

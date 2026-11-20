@@ -1,0 +1,30 @@
+{
+  "candidatas": [
+    "gender",
+    "n_diab_meds",
+    "repaglinide",
+    "chlorpropamide",
+    "glimepiride",
+    "acetohexamide",
+    "glyburide",
+    "tolbutamide",
+    "pioglitazone",
+    "rosiglitazone",
+    "acarbose",
+    "miglitol",
+    "troglitazone",
+    "tolazamide",
+    "examide",
+    "citoglipton",
+    "glyburide-metformin",
+    "glipizide-metformin",
+    "glimepiride-pioglitazone",
+    "metformin-rosiglitazone",
+    "metformin-pioglitazone"
+  ],
+  "componentes_pca": {
+    "80 %": 21,
+    "90 %": 34,
+    "95 %": 46
+  }
+}
